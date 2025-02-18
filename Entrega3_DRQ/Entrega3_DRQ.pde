@@ -25,6 +25,7 @@ yPos = height / 2;
 
 void draw(){
   //Esta parte del codigo del void draw es en parte mi interpretación de arte de rotación y escala usando circulos
+//Esta composición esta algo inspirada en lo propuesto por thedotisblack creative coding de su canal de youtube
 background(0);
 translate(width/2, height/2);
 for (int i = 0; i < 100; i++) {
